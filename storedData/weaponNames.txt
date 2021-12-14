@@ -1,0 +1,1131 @@
+Item:Abbot's Jo Staff
+Item:Acheron Set
+Item:Acolyte's Set
+Item:Alexandrian Set
+Item:Amber Horde Crossbow
+Item:Amber Horde Kit
+Item:Ancestor's Set
+Item:Ancestor's Staff
+Item:Anchor-Tanker
+Item:Angelic Set
+Item:Antinous' Blades
+Item:Antinous' Shield
+Item:Arcane Anchor
+Item:Arcane Set
+Item:Archaic Sparquebus
+Item:Armada Captain's Halberd
+Item:Armada Fusileer's Igniculus
+Item:Armada Lieutenant's Intonor
+Item:Armada Marine's Bulwark
+Item:Armada Marine's Halberd
+Item:Armada Pistols
+Item:Armada Trooper's Fulmentor
+Item:Artillerist's Blades
+Item:Artillery Buckler
+Item:Assassin's Grimblade (Level 70+)
+Item:Astrapios Staff
+Item:Axe of the Minotaur Lords
+Item:Azteca Set (Level 60+)
+Item:Aztecan Set
+Item:Azure Serpent Shards (Level 60+)
+Item:Azure Serpent Shards (Level 65+)
+Item:Azure Serpent Shards (Level 70+)
+Item:Backup Crossbow
+Item:Backup Slingbow
+Item:Bak mei Set
+Item:Baker Rifle
+Item:Banditoad Blunderbuss
+Item:Banditoad Long Knives
+Item:Banditoad Scattergun
+Item:Banditoad Stabber's Knives
+Item:Banditoad Stormshooters
+Item:Barbaric Axe
+Item:Baron Lakwa's Set
+Item:Basaltic Trident
+Item:Basaltic Wand
+Item:Basket-Hilt Cutlass
+Item:Battered Shield
+Item:Battlelord's Adz
+Item:Battleworn Spear
+Item:Beckett's Blades (Level 1+)
+Item:Beckett's Blades (Level 10+)
+Item:Beckett's Blades (Level 20+)
+Item:Beckett's Blades (Level 30+)
+Item:Beckett's Blades (Level 40+)
+Item:Beckett's Blades (Level 45+)
+Item:Beckett's Blades (Level 55+)
+Item:Beckett's Blades (Level 60+)
+Item:Beckett's Blades (Level 65+)
+Item:Beckett's Blades (Level 70+)
+Item:Beefeater Halberd
+Item:Berserker's Cudgel
+Item:Bestiarius Set
+Item:Big Medicine Set
+Item:Bishop's Gears of War
+Item:Bison Chief's Lance
+Item:Bison Chief's Spear
+Item:Bison Chief's Staff
+Item:Bison Scout's Shield
+Item:Bison Warrior's Blades
+Item:Bison Warrior's Shield
+Item:Black Cloud Casters
+Item:Black Sun Trident (Level 60+)
+Item:Black Sun Trident (Level 65+)
+Item:Black Sun Trident (Level 70+)
+Item:Blacksmith's Sword
+Item:Blades of Shade
+Item:Bleached Skull Buckler
+Item:Blood's Obsidian Reaver
+Item:Blood's Reaver
+Item:Blue Raptor Blades (Level 1+)
+Item:Blue Raptor Blades (Level 10+)
+Item:Blue Raptor Blades (Level 20+)
+Item:Blue Raptor Blades (Level 30+)
+Item:Blue Raptor Blades (Level 40+)
+Item:Blue Raptor Blades (Level 50+)
+Item:Blue Raptor Blades (Level 55+)
+Item:Blue Raptor Blades (Level 60+)
+Item:Blue Raptor Blades (Level 70+)
+Item:Blue Sun Trident
+Item:Blunder Brace
+Item:Boarder's Set
+Item:Boarding Axe
+Item:Boarding Knives (Level 1+)
+Item:Boarding Knives (Level 10+)
+Item:Boarding Knives (Level 20+)
+Item:Boarding Knives (Level 30+)
+Item:Boarding Knives (Level 35+)
+Item:Boarding Knives (Level 40+)
+Item:Boarding Knives (Level 45+)
+Item:Boarding Knives (Level 50+)
+Item:Boarding Knives (Level 55+)
+Item:Boarding Knives (Level 60+)
+Item:Boarding Knives (Level 65+)
+Item:Boarding Knives (Level 70+)
+Item:Boarding Pike
+Item:Bobby Bones' Blade
+Item:Bobby Bones' Hand
+Item:Bone Daggers
+Item:Boomstick
+Item:Boreal Frostlock
+Item:Bound Oni's Bulwark
+Item:Bowie Buckler
+Item:Bowie Knives
+Item:Brabantine Arms
+Item:Brabantine Blades
+Item:Brabantine Foil
+Item:Brabantine Stiletto
+Item:Brass 'N' Blunder
+Item:Brass Backup
+Item:Broken Bottle
+Item:Bronze Wand
+Item:Brown Bess Musket
+Item:Buccaneer's Hook
+Item:Buck's Blitzers
+Item:Butterfly Knives
+Item:Calacan Club
+Item:Calacan Warhammer
+Item:Candle Wand
+Item:Candy Cane Knives
+Item:Candy Cane Staff
+Item:Candy Cane Swords
+Item:Caoist Set
+Item:Captain Blood's Hook
+Item:Captain Blood's Obsidian Hook
+Item:Captain Kidd's Kit
+Item:Captain Swing's Slicers
+Item:Captain's Hook
+Item:Cavalry Buckler
+Item:Cavalryman's Blades
+Item:Centurion's Set
+Item:Cephalopod Set
+Item:Cestus Brace
+Item:Cherub Set
+Item:Chimera Staff
+Item:Chimeric Brace
+Item:Chimeric Wand
+Item:Cinder King's Blade (Level 1+)
+Item:Cinder King's Blade (Level 10+)
+Item:Cinder King's Blade (Level 20+)
+Item:Cinder King's Blade (Level 30+)
+Item:Cinder King's Blade (Level 40+)
+Item:Cinder King's Blade (Level 45+)
+Item:Cinder King's Blade (Level 50+)
+Item:Cinder King's Blade (Level 65+)
+Item:Cinder King's Blade (Level 70+)
+Item:Club of the Sixth Sun
+Item:Cobra Set
+Item:Coetl's Needles (Level 60+)
+Item:Cohorts' Set
+Item:Confounding Kit
+Item:Cookie Chippers
+Item:Cookie Foil
+Item:Cookie Warrior Set
+Item:Cookies Florentine
+Item:Coral-Crusted Cutlass
+Item:Cossack's Blades (Level 1+)
+Item:Cossack's Blades (Level 10+)
+Item:Cossack's Blades (Level 20+)
+Item:Cossack's Blades (Level 30+)
+Item:Cossack's Blades (Level 40+)
+Item:Cossack's Blades (Level 60+)
+Item:Cossack's Blades (Level 70+)
+Item:Coup Stick
+Item:Coup Stick Set
+Item:Crimson Lotus Staff
+Item:Croaker Jo Staff
+Item:Cross-Guard Cutlass
+Item:Crown Guardian's Shield
+Item:Crude Poleaxe
+Item:Cruel Cutters
+Item:Cup-Hilt Rapier
+Item:Cutthroat Kit
+Item:Da Claw
+Item:Dagger of the Deep
+Item:Dark Sea Dagger & Pistol (Level 10+)
+Item:Dark Sea Dagger & Pistol (Level 35+)
+Item:Dark Sea Dagger & Pistol (Level 70+)
+Item:Dark Sea Dagger & Shield (Level 10+)
+Item:Dark Sea Dagger & Shield (Level 35+)
+Item:Dark Sea Dagger & Shield (Level 70+)
+Item:Dark Sea Dagger & Spear (Level 10+)
+Item:Dark Sea Dagger & Spear (Level 35+)
+Item:Dark Sea Dagger & Spear (Level 70+)
+Item:Dark Sea Dagger & Sword (Level 10+)
+Item:Dark Sea Dagger & Sword (Level 35+)
+Item:Dark Sea Dagger & Sword (Level 70+)
+Item:Dark Sea Daggers (Level 10+)
+Item:Dark Sea Daggers (Level 35+)
+Item:Dark Sea Daggers (Level 70+)
+Item:Darkmoor Deathspitter (Level 1+)
+Item:Darkmoor Deathspitter (Level 10+)
+Item:Darkmoor Deathspitter (Level 20+)
+Item:Darkmoor Deathspitter (Level 30+)
+Item:Darkmoor Deathspitter (Level 40+)
+Item:Darkmoor Deathspitter (Level 45+)
+Item:Darkmoor Deathspitter (Level 55+)
+Item:Darkmoor Deathspitter (Level 60+)
+Item:Darkmoor Deathspitter (Level 65+)
+Item:Darkmoor Deathspitter (Level 70+)
+Item:Darkwind Staff
+Item:Darkwood Wand
+Item:Deadly Buckler
+Item:Deadly Hook
+Item:Deathdealers
+Item:Desperado's Blades
+Item:Destiny's Defender
+Item:Devil's Fishhook
+Item:Dino Jo Staff
+Item:Discarded Armada Halberd
+Item:Discarded Armada Pistols
+Item:Divining Staff
+Item:Dojo Jo Staff
+Item:Dojo Set
+Item:Doom Cultist's Kit
+Item:Doru
+Item:Double-Barrel Boomstick
+Item:Double-Barreled Sparklocks
+Item:Double-Eagle Revolver
+Item:Double-Pronged Sai
+Item:Dragon-Axe of Doom
+Item:Dragonfang Set
+Item:Dragonspyre Greataxe (Level 1+)
+Item:Dragonspyre Greataxe (Level 10+)
+Item:Dragonspyre Greataxe (Level 20+)
+Item:Dragonspyre Greataxe (Level 30+)
+Item:Dragonspyre Greataxe (Level 40+)
+Item:Dragonspyre Greataxe (Level 45+)
+Item:Dragonspyre Greataxe (Level 55+)
+Item:Dragonspyre Greataxe (Level 60+)
+Item:Dragonspyre Greataxe (Level 65+)
+Item:Dragonspyre Greataxe (Level 70+)
+Item:Dragoon Autocannon
+Item:Dragoon Frostlock
+Item:Dragoon Greatsword
+Item:Drakaris Banner (Level 1+)
+Item:Drakaris Banner (Level 10+)
+Item:Drakaris Banner (Level 20+)
+Item:Drakaris Banner (Level 30+)
+Item:Drakaris Banner (Level 40+)
+Item:Drakaris Banner (Level 45+)
+Item:Drakaris Banner (Level 55+)
+Item:Drakaris Banner (Level 60+)
+Item:Drakaris Banner (Level 65+)
+Item:Drakaris Banner (Level 70+)
+Item:Dread Serpent Set
+Item:Dreamclaw
+Item:Duel Sparkler
+Item:Dueling Master's Kit
+Item:Duelling Blade
+Item:Duellist's Grimblade (Level 1+)
+Item:Duellist's Grimblade (Level 60+)
+Item:Duellist's Grimblade (Level 70+)
+Item:Dynamo Dragoons
+Item:Eagle Claw Set
+Item:Earth Guardian's Mace
+Item:Earthquake Sun Mace (Level 60+)
+Item:Earthquake Sun Mace (Level 70+)
+Item:Emerald Serpent Shards
+Item:Emperor's Set
+Item:Ensign's Semi-Ottermatics
+Item:Ettin's Pauldron
+Item:Explorer's Halberd
+Item:Falcata
+Item:Falix
+Item:Fall Champion's Falchion (Level 1+)
+Item:Fall Champion's Falchion (Level 10+)
+Item:Fall Champion's Falchion (Level 20+)
+Item:Fall Champion's Falchion (Level 30+)
+Item:Fall Champion's Falchion (Level 35+)
+Item:Fall Champion's Falchion (Level 40+)
+Item:Fall Champion's Falchion (Level 45+)
+Item:Fall Champion's Falchion (Level 50+)
+Item:Fall Champion's Falchion (Level 55+)
+Item:Fall Champion's Falchion (Level 60+)
+Item:Fall Champion's Falchion (Level 65+)
+Item:Fall Champion's Falchion (Level 70+)
+Item:Fall Champion's Rifle (Level 1+)
+Item:Fall Champion's Rifle (Level 10+)
+Item:Fall Champion's Rifle (Level 20+)
+Item:Fall Champion's Rifle (Level 30+)
+Item:Fall Champion's Rifle (Level 35+)
+Item:Fall Champion's Rifle (Level 40+)
+Item:Fall Champion's Rifle (Level 45+)
+Item:Fall Champion's Rifle (Level 50+)
+Item:Fall Champion's Rifle (Level 55+)
+Item:Fall Champion's Rifle (Level 60+)
+Item:Fall Champion's Rifle (Level 65+)
+Item:Fall Champion's Rifle (Level 70+)
+Item:Fall Champion's Sabres (Level 1+)
+Item:Fall Champion's Sabres (Level 10+)
+Item:Fall Champion's Sabres (Level 20+)
+Item:Fall Champion's Sabres (Level 30+)
+Item:Fall Champion's Sabres (Level 35+)
+Item:Fall Champion's Sabres (Level 40+)
+Item:Fall Champion's Sabres (Level 45+)
+Item:Fall Champion's Sabres (Level 50+)
+Item:Fall Champion's Sabres (Level 55+)
+Item:Fall Champion's Sabres (Level 60+)
+Item:Fall Champion's Sabres (Level 65+)
+Item:Fall Champion's Sabres (Level 70+)
+Item:Fall Champion's Sceptre (Level 1+)
+Item:Fall Champion's Sceptre (Level 10+)
+Item:Fall Champion's Sceptre (Level 20+)
+Item:Fall Champion's Sceptre (Level 30+)
+Item:Fall Champion's Sceptre (Level 35+)
+Item:Fall Champion's Sceptre (Level 40+)
+Item:Fall Champion's Sceptre (Level 45+)
+Item:Fall Champion's Sceptre (Level 50+)
+Item:Fall Champion's Sceptre (Level 55+)
+Item:Fall Champion's Sceptre (Level 60+)
+Item:Fall Champion's Sceptre (Level 65+)
+Item:Fall Champion's Sceptre (Level 70+)
+Item:Fall Champion's Spyglass (Level 1+)
+Item:Fall Champion's Spyglass (Level 10+)
+Item:Fall Champion's Spyglass (Level 20+)
+Item:Fall Champion's Spyglass (Level 30+)
+Item:Fall Champion's Spyglass (Level 35+)
+Item:Fall Champion's Spyglass (Level 40+)
+Item:Fall Champion's Spyglass (Level 45+)
+Item:Fall Champion's Spyglass (Level 50+)
+Item:Fall Champion's Spyglass (Level 55+)
+Item:Fall Champion's Spyglass (Level 60+)
+Item:Fall Champion's Spyglass (Level 65+)
+Item:Fall Champion's Spyglass (Level 70+)
+Item:Fancy Daggers
+Item:Fancy Florentine Set
+Item:Fancy Valencian Poleaxe
+Item:Fanged Wand
+Item:Farfalla Staff
+Item:Farrier's Staff
+Item:Feathered Staff
+Item:Federal Shield
+Item:Federales Shield
+Item:Felix Shield
+Item:Fin's Cunning Cutters
+Item:Fin's Cutters
+Item:Fire Drake Set
+Item:Firebird Set
+Item:Firecat Set
+Item:Five Cloud Set
+Item:Five Suns Set
+Item:Fixer's Set
+Item:Flamberge
+Item:Flintlock Blades
+Item:Florentine Set
+Item:Fluria's Flamberge (Level 1+)
+Item:Fluria's Flamberge (Level 10+)
+Item:Fluria's Flamberge (Level 20+)
+Item:Fluria's Flamberge (Level 30+)
+Item:Fluria's Flamberge (Level 35+)
+Item:Fluria's Flamberge (Level 40+)
+Item:Fluria's Flamberge (Level 45+)
+Item:Fluria's Flamberge (Level 55+)
+Item:Fluria's Flamberge (Level 60+)
+Item:Fluria's Flamberge (Level 65+)
+Item:Fluria's Flamberge (Level 70+)
+Item:Four Rains Set
+Item:Friar Sand's Unyielding Hirigana
+Item:Fusilier Frostlock
+Item:Gargoyle Shield (Level 1+)
+Item:Gargoyle Shield (Level 10+)
+Item:Gargoyle Shield (Level 20+)
+Item:Gargoyle Shield (Level 30+)
+Item:Gargoyle Shield (Level 40+)
+Item:Gargoyle Shield (Level 45+)
+Item:Gargoyle Shield (Level 55+)
+Item:Gargoyle Shield (Level 60+)
+Item:Gargoyle Shield (Level 65+)
+Item:Gargoyle Shield (Level 70+)
+Item:General Tso's Blade
+Item:Geologist's Hammer
+Item:Gigger's Set
+Item:Gilded Armada Pistols
+Item:Gilded Kit
+Item:Gilded Sparklocks
+Item:Gilded Sparquebus
+Item:Gingerbread Wand
+Item:Gladiator Set
+Item:Gloomtracker Blades
+Item:Gorgo Bo Staff
+Item:Gorgomancer Set
+Item:Gorgomancer's Wand
+Item:Gorgon Staff
+Item:Gortez' Axe
+Item:Grand Shaman's Staff
+Item:Grande Armee Frostlock
+Item:Grandmaster's Shield
+Item:Grandmaster's Weapons
+Item:Grapeshot Revolver
+Item:Gravediggers
+Item:Great Gamer's Set
+Item:Great Grimblade (Level 1+)
+Item:Great Grimblade (Level 20+)
+Item:Great Grimblade (Level 30+)
+Item:Great Grimblade (Level 70+)
+Item:Great Spirit Set
+Item:Grenadier Frostlock
+Item:Grim Cutlass
+Item:Grim Shooter Set
+Item:Grimblades
+Item:Gris-Gris Set
+Item:Grizzled Veteran's Shield (Level 1+)
+Item:Grizzled Veteran's Shield (Level 10+)
+Item:Grizzled Veteran's Shield (Level 20+)
+Item:Grizzled Veteran's Shield (Level 30+)
+Item:Grizzled Veteran's Shield (Level 40+)
+Item:Grizzled Veteran's Shield (Level 45+)
+Item:Grizzled Veteran's Shield (Level 55+)
+Item:Grizzled Veteran's Shield (Level 60+)
+Item:Grizzled Veteran's Shield (Level 65+)
+Item:Grizzled Veteran's Shield (Level 70+)
+Item:Guardsman's Mace
+Item:Guerini Musket
+Item:Haka's Spear
+Item:Halberdier's Blade
+Item:Hammer of Anax
+Item:Hand Blitzers
+Item:Hand Crossbows
+Item:Hand Slingbows
+Item:Hastatum Set
+Item:Hattori Hamzo Blade
+Item:Haywire Armada Blade
+Item:Haywire Armada Cannon
+Item:Haywire Armada Greatsword
+Item:Haywire Armada Halberd
+Item:Haywire Armada Pistols
+Item:Haywire Armada Rifle
+Item:Haywire Cultist Set
+Item:Haywire Enforcer Set
+Item:Haywire Fencer Set
+Item:Haywire Guardian Set
+Item:Haywire Heironymous Staff
+Item:Haywire Pirate Set
+Item:Haywire Pistoleer Set
+Item:Haywire Royal Greataxe
+Item:Haywire Royal Poignard
+Item:Haywire Swashbuckler Set
+Item:Haywire Technomancer Set
+Item:Haywire Thunder Rifle
+Item:Haywire Warmage Regalia
+Item:Heck Hound Set
+Item:Helios Brace
+Item:Helios Set (Level 60+)
+Item:Helios Set (Level 65+)
+Item:Helios Set (Level 70+)
+Item:Henry Thunderstick
+Item:Hibana Musket
+Item:High Lonesome Set
+Item:High Moon Set
+Item:Hoodoo Wand
+Item:Hook and Claw
+Item:Hoplite Shield
+Item:Horselord's Shield
+Item:Houngan's Grimblade (Level 1+)
+Item:Houngan's Grimblade (Level 70+)
+Item:Hussar Frostlock
+Item:Hykssoss' Falchion
+Item:Ignifier Brace
+Item:Imperial Blaster
+Item:Imperial Crossbow
+Item:Imperial Frostlock
+Item:Imperial Rajah Set
+Item:Incisors
+Item:Incursor's Set
+Item:Infantry Buckler
+Item:Infantry Dragoon
+Item:Infantry Frostlock
+Item:Infantry Saber
+Item:Infantryman's Blades
+Item:Inoshishi Set
+Item:Inoshishi Staff
+Item:Invisible Swordsman's Blade
+Item:Jade Casters
+Item:Jade Spear
+Item:Jade Tiger Set
+Item:Jaguar Set
+Item:Jet Staff
+Item:Jet Wand
+Item:Jolly Roger Jo Staff
+Item:Jovian Staff (Level 60+)
+Item:Jovian Staff (Level 65+)
+Item:Jovian Staff (Level 70+)
+Item:Jumbo Cookie
+Item:Jungle Ranger's Kit
+Item:Kopis Brace
+Item:Kora
+Item:Kowbooki Spy's Gear
+Item:Kraken Shield
+Item:Kraken Staff
+Item:Kraken's Breath Set
+Item:Krakensbreath Decksweeper
+Item:Krampus' Bell Ringer (Level 10+)
+Item:Krampus' Bell Ringer (Level 35+)
+Item:Krampus' Bell Ringer (Level 70+)
+Item:Krampus' Staff and Shooter (Level 10+)
+Item:Krampus' Staff and Shooter (Level 35+)
+Item:Krampus' Staff and Shooter (Level 70+)
+Item:Krampus' Staff and Steel (Level 10+)
+Item:Krampus' Staff and Steel (Level 70+)
+Item:Krampus' Staff and Stinger (Level 10+)
+Item:Krampus' Staff and Stinger (Level 35+)
+Item:Krampus' Staff and Stinger (Level 70+)
+Item:Krampus' Yulestaff (Level 10+)
+Item:Krampus' Yulestaff (Level 70+)
+Item:Kraven Blade (Level 1+)
+Item:Kraven Blade (Level 10+)
+Item:Kraven Blade (Level 20+)
+Item:Kraven Blade (Level 30+)
+Item:Kraven Blade (Level 40+)
+Item:Kraven Blade (Level 45+)
+Item:Kraven Blade (Level 55+)
+Item:Kraven Blade (Level 60+)
+Item:Kraven Blade (Level 65+)
+Item:Kraven Blade (Level 70+)
+Item:Krokotologist's Set
+Item:Kshatriya Shield
+Item:Kukri Knife
+Item:Kukulkan's Stormcasters
+Item:Kurgha Dagger
+Item:Kurgha Set
+Item:Laborer's Spade
+Item:Lead Pipe
+Item:Legatus' Set
+Item:Legba's Teeth
+Item:Legionary Shield
+Item:LeMat Special
+Item:Leonine Set
+Item:Leonis' Breath
+Item:Lord of War's Maul
+Item:Lucidity
+Item:Madras Set
+Item:Maelstrom Staff
+Item:Magister Templi's Set
+Item:Mahrata's Kit
+Item:Manchu Set
+Item:Manticore Cudgel
+Item:Mantis Set
+Item:Marine Lieutenant's Gear
+Item:Mariner's Machete
+Item:Marozzo Armaments
+Item:Matched Kukris
+Item:Medea's Crook
+Item:Medicine Staff
+Item:Medusa's Blades
+Item:Medusan Set
+Item:Mercenario Polearm
+Item:Metal Guardian's Blade
+Item:Miner's Pick
+Item:Miner's Torch
+Item:Mint Shield
+Item:Mint Staff
+Item:Mismatched Lightnin' Irons
+Item:Mistreaver Sickles
+Item:Mojo Jo Staff
+Item:Mojo Sparkler
+Item:Monk Spade
+Item:Monk's Glaive
+Item:Monk's Jo Staff
+Item:Monk's Set
+Item:Monk's Spear
+Item:Monquistan Crossbows
+Item:Monquistan Halberd
+Item:Moo Manchu's Wand
+Item:Moonhunter Dirks
+Item:Moonlight Reavers (Level 1+)
+Item:Moonlight Reavers (Level 10+)
+Item:Moonlight Reavers (Level 20+)
+Item:Moonlight Reavers (Level 30+)
+Item:Moonlight Reavers (Level 40+)
+Item:Moonlight Reavers (Level 45+)
+Item:Moonlight Reavers (Level 55+)
+Item:Moonlight Reavers (Level 60+)
+Item:Moonlight Reavers (Level 65+)
+Item:Moonlight Reavers (Level 70+)
+Item:Moonlight Set
+Item:Moonlord Set
+Item:Moonskull Brace
+Item:Moonskull Staff
+Item:Moonstone Casters
+Item:Mughal's Blades
+Item:Mulciber
+Item:Mustang Duelling Set
+Item:Myrmidon Brace
+Item:Myrmidon's Mace
+Item:Myrmidon's Poleaxe
+Item:Nan-dao
+Item:Naptha Set
+Item:Navarchos' Set
+Item:Navy Bolters
+Item:Nefarious Knives
+Item:Nefarious Novablaster
+Item:Nefarious Staff
+Item:Nemean Brace
+Item:Nightlord's Blades
+Item:Nightstalker Razors
+Item:Nightstalker's Krisknives
+Item:Nine Rings Swords
+Item:Ninja Blades
+Item:Noble's Halberd
+Item:Nock Volley Blaster
+Item:North Wind Staff
+Item:Novillero's Duelling Set
+Item:Nutcracker Wand
+Item:Obsidian Deathdealers
+Item:Obsidian Hoodoo Wand
+Item:Obsidian Scepter
+Item:Obsidian Trident
+Item:Obsidian Wand
+Item:Odachi
+Item:Ol' Hitchin' Post
+Item:Ol' Quigley
+Item:Ometeotl's Cudgel
+Item:Oni Set
+Item:Onieromancer's Cudgel
+Item:Onyx Scepter
+Item:Onyx Trident
+Item:Orb of Nefarious Death (Level 1+)
+Item:Orb of Nefarious Death (Level 10+)
+Item:Orb of Nefarious Death (Level 20+)
+Item:Orb of Nefarious Death (Level 30+)
+Item:Orb of Nefarious Death (Level 40+)
+Item:Orb of Nefarious Death (Level 45+)
+Item:Orb of Nefarious Death (Level 50+)
+Item:Orb of Nefarious Death (Level 55+)
+Item:Orb of Nefarious Death (Level 60+)
+Item:Orb of Nefarious Death (Level 65+)
+Item:Orb of Nefarious Death (Level 70+)
+Item:Orientalist's Set
+Item:Outrageous Fortune
+Item:Pagoda Set
+Item:Paleontologist's Set
+Item:Papa Screech's Set
+Item:Pearl-Handled Peacemakers
+Item:Pepperbox Brace
+Item:Persean Set
+Item:Pharoah's Blade (Level 1+)
+Item:Pharoah's Blade (Level 10+)
+Item:Pharoah's Blade (Level 20+)
+Item:Pharoah's Blade (Level 30+)
+Item:Pharoah's Blade (Level 40+)
+Item:Pharoah's Blade (Level 45+)
+Item:Pharoah's Blade (Level 55+)
+Item:Pharoah's Blade (Level 60+)
+Item:Pharoah's Blade (Level 65+)
+Item:Pharoah's Blade (Level 70+)
+Item:Phoenix Breath
+Item:Phoenix Set
+Item:Phrygian Frostlock (Level 60+)
+Item:Phrygian Frostlock (Level 65+)
+Item:Phrygian Frostlock (Level 70+)
+Item:Phule's Wand
+Item:Pilum
+Item:Pirate Blades
+Item:Pirate Daggers
+Item:Pit Viper Staff
+Item:Praefectus Set
+Item:Praetorian Spear
+Item:Precision Blades
+Item:Primitive Bison Spear
+Item:Primitive Greatsword (Strength-Boosted)
+Item:Primitive Greatsword (Will-Boosted)
+Item:Ptolemaic Brace
+Item:Ptolemaic Wand
+Item:Pugio Brace
+Item:Pyrobuss
+Item:Pyrrhic Set
+Item:Quality Hibana Musket
+Item:Quetzal Scepter (Level 60+)
+Item:Raider's Shield
+Item:Raiding Tackle (Level 1+)
+Item:Raiding Tackle (Level 10+)
+Item:Raiding Tackle (Level 20+)
+Item:Raiding Tackle (Level 30+)
+Item:Raiding Tackle (Level 35+)
+Item:Raiding Tackle (Level 40+)
+Item:Raiding Tackle (Level 45+)
+Item:Raiding Tackle (Level 50+)
+Item:Raiding Tackle (Level 55+)
+Item:Raiding Tackle (Level 60+)
+Item:Raiding Tackle (Level 65+)
+Item:Raiding Tackle (Level 70+)
+Item:Rainmaker's Kit
+Item:Rajah Marine Set
+Item:Ranger's Dynamos
+Item:Raptor's Set
+Item:Rawhide Shield
+Item:Red Sun Trident
+Item:Repeller's Set
+Item:Riddler's Bo Staff
+Item:Ringo's Revolvers
+Item:Risaldar Set
+Item:Ronin Gear
+Item:Ronin's Shield
+Item:Rooke's Axe
+Item:Rooke's Bulwark
+Item:Round Buckler
+Item:Royal Fusileer's Set
+Item:Royal High Naval Sabre (Level 10+)
+Item:Royal High Naval Sabre (Level 20+)
+Item:Royal High Naval Sabre (Level 30+)
+Item:Royal High Naval Sabre (Level 35+)
+Item:Royal High Naval Sabre (Level 40+)
+Item:Royal High Naval Sabre (Level 45+)
+Item:Royal High Naval Sabre (Level 50+)
+Item:Royal High Naval Sabre (Level 55+)
+Item:Royal High Naval Sabre (Level 60+)
+Item:Royal Lion Shield
+Item:Royal Marine Frostlock
+Item:Royal Navy Set
+Item:Ruby Slicer (Level 10+)
+Item:Ruby Slicer (Level 20+)
+Item:Ruby Slicer (Level 30+)
+Item:Ruby Slicer (Level 35+)
+Item:Ruby Slicer (Level 40+)
+Item:Ruby Slicer (Level 45+)
+Item:Ruby Slicer (Level 50+)
+Item:Ruby Slicer (Level 55+)
+Item:Ruby Slicer (Level 60+)
+Item:Rugged Cutlass
+Item:Rusty Machete
+Item:Sacred Mountain Kit
+Item:Saladian Daggers
+Item:Saladian Scimitar
+Item:Salamander Set
+Item:Samnite Set
+Item:Samoorai Blades
+Item:Samoorai Musketeer's Kit
+Item:Samoorai Ronin's Gear
+Item:Samoorai Sparklocks
+Item:Sand Witch's Set
+Item:Sankara Staff
+Item:Santa Rana's Scattergun
+Item:Saurian Machetes
+Item:Saurian Trident
+Item:Saurian Wand
+Item:Scepter of the Incal
+Item:Screechstaff
+Item:Sea Sheller (Level 1+)
+Item:Sea Sheller (Level 10+)
+Item:Sea Sheller (Level 20+)
+Item:Sea Sheller (Level 30+)
+Item:Sea Sheller (Level 35+)
+Item:Sea Sheller (Level 40+)
+Item:Sea Sheller (Level 45+)
+Item:Sea Sheller (Level 50+)
+Item:Sea Sheller (Level 55+)
+Item:Sea Sheller (Level 60+)
+Item:Sea Sheller (Level 65+)
+Item:Sea Sheller (Level 70+)
+Item:Sea-Dog's Cutlass
+Item:Sea-Dog's Rapier
+Item:Seraph Set
+Item:Serpent Staff
+Item:Shaman's Set
+Item:Shaolin Staff
+Item:Sharp Sparkler
+Item:Shield of the Steppes
+Item:Shiva's Lathi
+Item:Silent Knight Battle Set
+Item:Silent Knight Duelist Set
+Item:Silent Knight Great Sword
+Item:Silent Knight Marauder Set
+Item:Silent Knight Mojo Set
+Item:Silent Knight Rogue Set
+Item:Silent Knight Sword
+Item:Silver Revolver
+Item:Silver Sparklocks
+Item:Simple Kit
+Item:Skinners
+Item:Skreechstaff
+Item:Skull Staff
+Item:Skull Wand
+Item:Skullcutter's Hook (Level 10+)
+Item:Skullcutter's Hook (Level 20+)
+Item:Skullcutter's Hook (Level 30+)
+Item:Skullcutter's Hook (Level 35+)
+Item:Skullcutter's Hook (Level 40+)
+Item:Skullcutter's Hook (Level 45+)
+Item:Skullcutter's Hook (Level 50+)
+Item:Skullcutter's Hook (Level 55+)
+Item:Skullcutter's Hook (Level 60+)
+Item:Sling-Bow
+Item:Sloth Captain's Mace
+Item:Smoking Mirror Shards
+Item:Snakebite Set
+Item:Snow Blasters
+Item:Snow Cannon
+Item:Solomon's Set
+Item:Sorcar's Set
+Item:Sphinx Staff
+Item:Spiked Buckler
+Item:Spring Champion's Falchion (Level 1+)
+Item:Spring Champion's Falchion (Level 10+)
+Item:Spring Champion's Falchion (Level 20+)
+Item:Spring Champion's Falchion (Level 30+)
+Item:Spring Champion's Falchion (Level 35+)
+Item:Spring Champion's Falchion (Level 40+)
+Item:Spring Champion's Falchion (Level 45+)
+Item:Spring Champion's Falchion (Level 50+)
+Item:Spring Champion's Falchion (Level 55+)
+Item:Spring Champion's Falchion (Level 60+)
+Item:Spring Champion's Falchion (Level 65+)
+Item:Spring Champion's Falchion (Level 70+)
+Item:Spring Champion's Rifle (Level 1+)
+Item:Spring Champion's Rifle (Level 10+)
+Item:Spring Champion's Rifle (Level 20+)
+Item:Spring Champion's Rifle (Level 30+)
+Item:Spring Champion's Rifle (Level 35+)
+Item:Spring Champion's Rifle (Level 40+)
+Item:Spring Champion's Rifle (Level 45+)
+Item:Spring Champion's Rifle (Level 50+)
+Item:Spring Champion's Rifle (Level 55+)
+Item:Spring Champion's Rifle (Level 60+)
+Item:Spring Champion's Rifle (Level 65+)
+Item:Spring Champion's Rifle (Level 70+)
+Item:Spring Champion's Sabres (Level 1+)
+Item:Spring Champion's Sabres (Level 10+)
+Item:Spring Champion's Sabres (Level 20+)
+Item:Spring Champion's Sabres (Level 30+)
+Item:Spring Champion's Sabres (Level 35+)
+Item:Spring Champion's Sabres (Level 40+)
+Item:Spring Champion's Sabres (Level 45+)
+Item:Spring Champion's Sabres (Level 50+)
+Item:Spring Champion's Sabres (Level 55+)
+Item:Spring Champion's Sabres (Level 60+)
+Item:Spring Champion's Sabres (Level 65+)
+Item:Spring Champion's Sabres (Level 70+)
+Item:Spring Champion's Scepter (Level 1+)
+Item:Spring Champion's Scepter (Level 10+)
+Item:Spring Champion's Scepter (Level 20+)
+Item:Spring Champion's Scepter (Level 30+)
+Item:Spring Champion's Scepter (Level 35+)
+Item:Spring Champion's Scepter (Level 40+)
+Item:Spring Champion's Scepter (Level 45+)
+Item:Spring Champion's Scepter (Level 50+)
+Item:Spring Champion's Scepter (Level 55+)
+Item:Spring Champion's Scepter (Level 60+)
+Item:Spring Champion's Scepter (Level 65+)
+Item:Spring Champion's Scepter (Level 70+)
+Item:Spring Champion's Spyglass (Level 1+)
+Item:Spring Champion's Spyglass (Level 10+)
+Item:Spring Champion's Spyglass (Level 20+)
+Item:Spring Champion's Spyglass (Level 30+)
+Item:Spring Champion's Spyglass (Level 35+)
+Item:Spring Champion's Spyglass (Level 40+)
+Item:Spring Champion's Spyglass (Level 45+)
+Item:Spring Champion's Spyglass (Level 50+)
+Item:Spring Champion's Spyglass (Level 55+)
+Item:Spring Champion's Spyglass (Level 60+)
+Item:Spring Champion's Spyglass (Level 65+)
+Item:Spring Champion's Spyglass (Level 70+)
+Item:Spy's Defense
+Item:Spy's Kit
+Item:Squid Buckler
+Item:Staff of Anubis (Level 1+)
+Item:Staff of Anubis (Level 10+)
+Item:Staff of Anubis (Level 20+)
+Item:Staff of Anubis (Level 30+)
+Item:Staff of Anubis (Level 40+)
+Item:Staff of Anubis (Level 45+)
+Item:Staff of Anubis (Level 55+)
+Item:Staff of Anubis (Level 60+)
+Item:Staff of Anubis (Level 65+)
+Item:Staff of Anubis (Level 70+)
+Item:Staff of Power (Shooty/Staffy)
+Item:Staff of Power (Smashy/Staffy)
+Item:Staff of Power (Stabby/Staffy)
+Item:Staff of Power (Staffy)
+Item:Staff of Power (Staffy/Slashy)
+Item:Staff of St. Dunstan
+Item:Staff of the Adepti
+Item:Stallion Set
+Item:Star Staff
+Item:Steel Drivin' Hammer
+Item:Steel Sparkler
+Item:Stegosaur Set
+Item:Steppes Champion's Swords
+Item:Stilettos
+Item:Stormzilla Staff
+Item:Strike Command Set
+Item:Striker's Axe
+Item:Subedar Set
+Item:Summer Champion's Falchion (Level 1+)
+Item:Summer Champion's Falchion (Level 10+)
+Item:Summer Champion's Falchion (Level 20+)
+Item:Summer Champion's Falchion (Level 30+)
+Item:Summer Champion's Falchion (Level 35+)
+Item:Summer Champion's Falchion (Level 40+)
+Item:Summer Champion's Falchion (Level 45+)
+Item:Summer Champion's Falchion (Level 50+)
+Item:Summer Champion's Falchion (Level 55+)
+Item:Summer Champion's Falchion (Level 60+)
+Item:Summer Champion's Falchion (Level 65+)
+Item:Summer Champion's Falchion (Level 70+)
+Item:Summer Champion's Rifle (Level 1+)
+Item:Summer Champion's Rifle (Level 10+)
+Item:Summer Champion's Rifle (Level 20+)
+Item:Summer Champion's Rifle (Level 30+)
+Item:Summer Champion's Rifle (Level 35+)
+Item:Summer Champion's Rifle (Level 40+)
+Item:Summer Champion's Rifle (Level 45+)
+Item:Summer Champion's Rifle (Level 50+)
+Item:Summer Champion's Rifle (Level 55+)
+Item:Summer Champion's Rifle (Level 60+)
+Item:Summer Champion's Rifle (Level 65+)
+Item:Summer Champion's Rifle (Level 70+)
+Item:Summer Champion's Sabres (Level 1+)
+Item:Summer Champion's Sabres (Level 10+)
+Item:Summer Champion's Sabres (Level 20+)
+Item:Summer Champion's Sabres (Level 30+)
+Item:Summer Champion's Sabres (Level 35+)
+Item:Summer Champion's Sabres (Level 40+)
+Item:Summer Champion's Sabres (Level 45+)
+Item:Summer Champion's Sabres (Level 50+)
+Item:Summer Champion's Sabres (Level 55+)
+Item:Summer Champion's Sabres (Level 60+)
+Item:Summer Champion's Sabres (Level 65+)
+Item:Summer Champion's Sabres (Level 70+)
+Item:Summer Champion's Scepter (Level 1+)
+Item:Summer Champion's Scepter (Level 10+)
+Item:Summer Champion's Scepter (Level 20+)
+Item:Summer Champion's Scepter (Level 30+)
+Item:Summer Champion's Scepter (Level 35+)
+Item:Summer Champion's Scepter (Level 40+)
+Item:Summer Champion's Scepter (Level 45+)
+Item:Summer Champion's Scepter (Level 50+)
+Item:Summer Champion's Scepter (Level 55+)
+Item:Summer Champion's Scepter (Level 60+)
+Item:Summer Champion's Scepter (Level 65+)
+Item:Summer Champion's Scepter (Level 70+)
+Item:Summer Champion's Spyglass (Level 1+)
+Item:Summer Champion's Spyglass (Level 10+)
+Item:Summer Champion's Spyglass (Level 20+)
+Item:Summer Champion's Spyglass (Level 30+)
+Item:Summer Champion's Spyglass (Level 35+)
+Item:Summer Champion's Spyglass (Level 40+)
+Item:Summer Champion's Spyglass (Level 45+)
+Item:Summer Champion's Spyglass (Level 50+)
+Item:Summer Champion's Spyglass (Level 55+)
+Item:Summer Champion's Spyglass (Level 60+)
+Item:Summer Champion's Spyglass (Level 65+)
+Item:Summer Champion's Spyglass (Level 70+)
+Item:Superior Monk's Glaive
+Item:Survivor's Kit
+Item:Swashbuckler's Hook
+Item:Swept-Hilt Rapier
+Item:Swivel Gun (Level 1+)
+Item:Swivel Gun (Level 10+)
+Item:Swivel Gun (Level 20+)
+Item:Swivel Gun (Level 30+)
+Item:Swivel Gun (Level 35+)
+Item:Swivel Gun (Level 40+)
+Item:Swivel Gun (Level 45+)
+Item:Swivel Gun (Level 50+)
+Item:Swivel Gun (Level 55+)
+Item:Swivel Gun (Level 60+)
+Item:Swivel Gun (Level 65+)
+Item:Swivel Gun (Level 70+)
+Item:Sword of Talos
+Item:Sword-Breakers
+Item:Swords of Valor (Level 1+
+Item:Swords of Valor (Level 1+)
+Item:Swords of Valor (Level 10+)
+Item:Swords of Valor (Level 20+)
+Item:Swords of Valor (Level 30+)
+Item:Swords of Valor (Level 40+)
+Item:Swords of Valor (Level 45+)
+Item:Swords of Valor (Level 50+)
+Item:Swords of Valor (Level 55+)
+Item:Swords of Valor (Level 60+)
+Item:Swords of Valor (Level 65+)
+Item:Swords of Valor (Level 70+)
+Item:Talocan Set
+Item:Tartarus Set
+Item:Tempest Brace
+Item:Temple Defender's Blades
+Item:Temple Guard Set
+Item:Tengu Staff
+Item:Tenoch Set
+Item:Tentacular Shield
+Item:Tentacular Staff (Level 1+)
+Item:Tentacular Staff (Level 10+)
+Item:Tentacular Staff (Level 20+)
+Item:Tentacular Staff (Level 30+)
+Item:Tentacular Staff (Level 35+)
+Item:Tentacular Staff (Level 40+)
+Item:Tentacular Staff (Level 45+)
+Item:Tentacular Staff (Level 50+)
+Item:Tentacular Staff (Level 55+)
+Item:Tentacular Staff (Level 60+)
+Item:Tentacular Staff (Level 65+)
+Item:Tentacular Staff (Level 70+)
+Item:Tetsubo
+Item:The Winter Wonder Set
+Item:Theogonic Set
+Item:Thunder Staff
+Item:Thunderbuss
+Item:Thunderbuss Blade
+Item:Thundercasters (Level 60+)
+Item:Thunderer's Shield
+Item:Tiger Clan Gear
+Item:Tiger Claws
+Item:Tinderstick
+Item:Toff's Gamp
+Item:Tollan Set
+Item:Tomahawks
+Item:Topaz Eagle Shards
+Item:Torch and Shield of Valor
+Item:Toreador's Blades
+Item:Toreador's Duelling Set
+Item:Traveller's Staff
+Item:Tribal Buckler
+Item:Tribal Chief's Wand
+Item:Tribal Shaman's Set
+Item:Tribal Shaman's Staff
+Item:Tribal Spear
+Item:Tribal Wand
+Item:Trident
+Item:Trident of the Quetzal
+Item:Trishula
+Item:Tritops Staff
+Item:Troll Chieftain's Club
+Item:Tubthumper
+Item:Turquoise Casters
+Item:Tusken Set
+Item:Twin Katanas
+Item:Twin Sparklers
+Item:Twin Tanto
+Item:Undead Captain's Kit
+Item:Underdog's Cleaver
+Item:Union Thunderstick
+Item:Unlucky Buckler
+Item:Valencian Duelling Set
+Item:Valencian Halberd
+Item:Valencian Poleaxe
+Item:Valencian Rapier
+Item:Vanguard's Grimblade (Level 1+)
+Item:Vanguard's Grimblade (Level 70+)
+Item:Velite Set
+Item:Viper Fang Set
+Item:Volt Dragoons
+Item:Walktopus Shield
+Item:War Glaive
+Item:War Oni's Sword
+Item:War Sparkler
+Item:War Spear
+Item:Water Guardian's Staff
+Item:Watermole Spear
+Item:Wharf Rat Daggers
+Item:White Crane Set
+Item:Wicked Blades
+Item:Wind and Fire Wheels
+Item:Windstorm Staff
+Item:Winter Champion's Falchion (Level 1+)
+Item:Winter Champion's Falchion (Level 10+)
+Item:Winter Champion's Falchion (Level 20+)
+Item:Winter Champion's Falchion (Level 30+)
+Item:Winter Champion's Falchion (Level 35+)
+Item:Winter Champion's Falchion (Level 40+)
+Item:Winter Champion's Falchion (Level 45+)
+Item:Winter Champion's Falchion (Level 50+)
+Item:Winter Champion's Falchion (Level 55+)
+Item:Winter Champion's Falchion (Level 60+)
+Item:Winter Champion's Falchion (Level 65+)
+Item:Winter Champion's Rifle (Level 1+)
+Item:Winter Champion's Rifle (Level 10+)
+Item:Winter Champion's Rifle (Level 20+)
+Item:Winter Champion's Rifle (Level 30+)
+Item:Winter Champion's Rifle (Level 35+)
+Item:Winter Champion's Rifle (Level 40+)
+Item:Winter Champion's Rifle (Level 45+)
+Item:Winter Champion's Rifle (Level 50+)
+Item:Winter Champion's Rifle (Level 55+)
+Item:Winter Champion's Rifle (Level 60+)
+Item:Winter Champion's Rifle (Level 65+)
+Item:Winter Champion's Sabres (Level 1+)
+Item:Winter Champion's Sabres (Level 10+)
+Item:Winter Champion's Sabres (Level 20+)
+Item:Winter Champion's Sabres (Level 30+)
+Item:Winter Champion's Sabres (Level 35+)
+Item:Winter Champion's Sabres (Level 40+)
+Item:Winter Champion's Sabres (Level 45+)
+Item:Winter Champion's Sabres (Level 50+)
+Item:Winter Champion's Sabres (Level 55+)
+Item:Winter Champion's Sabres (Level 60+)
+Item:Winter Champion's Sabres (Level 65+)
+Item:Winter Champion's Scepter (Level 1+)
+Item:Winter Champion's Scepter (Level 10+)
+Item:Winter Champion's Scepter (Level 20+)
+Item:Winter Champion's Scepter (Level 30+)
+Item:Winter Champion's Scepter (Level 35+)
+Item:Winter Champion's Scepter (Level 40+)
+Item:Winter Champion's Scepter (Level 45+)
+Item:Winter Champion's Scepter (Level 50+)
+Item:Winter Champion's Scepter (Level 55+)
+Item:Winter Champion's Scepter (Level 60+)
+Item:Winter Champion's Scepter (Level 65+)
+Item:Winter Champion's Spyglass (Level 1+)
+Item:Winter Champion's Spyglass (Level 10+)
+Item:Winter Champion's Spyglass (Level 20+)
+Item:Winter Champion's Spyglass (Level 30+)
+Item:Winter Champion's Spyglass (Level 35+)
+Item:Winter Champion's Spyglass (Level 40+)
+Item:Winter Champion's Spyglass (Level 45+)
+Item:Winter Champion's Spyglass (Level 50+)
+Item:Winter Champion's Spyglass (Level 55+)
+Item:Winter Champion's Spyglass (Level 60+)
+Item:Winter Champion's Spyglass (Level 65+)
+Item:Withered Cherryblossom
+Item:Wrapping Paper Hammer
+Item:Wrapping Paper Sword
+Item:Wushu Set
+Item:Wyldfire Set
+Item:Xiphos
+Item:Yakooza Set
+Item:Yakuza Assassin's Kit
+Item:Yakuza Blades
+Item:Yari
+Item:Yeoman Warder's Mace
+Item:Yeomanry Shield
+Item:Zweihander
